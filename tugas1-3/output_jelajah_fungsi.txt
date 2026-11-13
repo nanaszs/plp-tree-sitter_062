@@ -1,0 +1,8 @@
+module [1:0]
+  function_definition [1:0]
+    name: identifier [1:4]
+    parameters: parameters [1:8]
+      identifier [1:9]
+    body: block [2:4]
+      return_statement [2:4]
+        identifier [2:11]
