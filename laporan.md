@@ -236,13 +236,13 @@ kali 2
 
 ```text
   dasar:
-      1. ✓ [32mperbandingan sederhana[0m
-      2. ✓ [32moperator lebih besar sama dengan[0m
-      3. ✓ [32mand lebih kuat dari or[0m
-      4. ✓ [32mkurung mengubah urutan[0m
-      5. ✓ [32mnot dan boolean[0m
-      6. ✓ [32min dengan tiga nilai[0m
-      7. ✓ [32mcontains[0m
+      1. ✓ perbandingan sederhana
+      2. ✓ operator lebih besar sama dengan
+      3. ✓ and lebih kuat dari or
+      4. ✓ kurung mengubah urutan
+      5. ✓ not dan boolean
+      6. ✓ in dengan tiga nilai
+      7. ✓ contains
 
 Total parses: 7; successful parses: 7; failed parses: 0; success percentage: 100.00%; average speed: 3641 bytes/ms
 
@@ -265,7 +265,7 @@ Total parses: 7; successful parses: 7; failed parses: 0; success percentage: 100
 (contains_expression field: (identifier) @property)
 ```
 
-**Hasil tree-sitter highlight contoh2.filter:** Di terminal, kata kunci (in, and, not, or, contains) berwarna ___, string berwarna ___, boolean (true) berwarna ___, dan nama field (status, archived, title) berwarna ___. Tiap jenis token punya warna berbeda sesuai highlights.scm.
+**Hasil tree-sitter highlight contoh2.filter:** Di terminal, kata kunci (in, and, not, or, contains) berwarna oranye, string berwarna hijau, boolean (true) berwarna kuning, dan nama field (status, archived, title) berwarna merah. Tiap jenis token punya warna berbeda sesuai highlights.scm.
 
 **Kendala:** muncul Warning karena tree-sitter.json belum punya entry highlights. Detailnya ada di catatan penggunaan AI di bawah.
 
