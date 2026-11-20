@@ -1,0 +1,2 @@
+@fn  baris 8: print
+@args  baris 8: (a, b)
