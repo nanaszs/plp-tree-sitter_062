@@ -1,0 +1,1 @@
+status in ("open", "pending") and not archived = true or title contains "invoice"
