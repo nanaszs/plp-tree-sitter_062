@@ -1,0 +1,7 @@
+/tmp/itsdangerous/src/itsdangerous/url_safe.py:23: fungsi load_payload terlalu panjang (31 baris)
+/tmp/itsdangerous/src/itsdangerous/timed.py:182: # TODO: Signature is incompatible because parameters were added
+/tmp/itsdangerous/src/itsdangerous/timed.py:72: fungsi unsign terlalu panjang (87 baris)
+/tmp/itsdangerous/src/itsdangerous/timed.py:185: fungsi loads terlalu panjang (36 baris)
+/tmp/itsdangerous/src/itsdangerous/signer.py:129: fungsi __init__ terlalu panjang (45 baris)
+/tmp/itsdangerous/src/itsdangerous/signer.py:182: fungsi derive_key terlalu panjang (32 baris)
+/tmp/itsdangerous/src/itsdangerous/serializer.py:190: fungsi __init__ terlalu panjang (45 baris)
